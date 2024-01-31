@@ -1,11 +1,14 @@
 # A React Native - Expo Project
 
-### Perfect for beginners to learn the basics of React Native [Expo Official Tutorial](https://docs.expo.dev/tutorial/create-your-first-app/)
+### Perfect for beginners to learn the basics using this tutorial: [Expo Official Tutorial](https://docs.expo.dev/tutorial/create-your-first-app/)
 
 - Built using expo-cli
-- expo [framework](https://expo.dev/)
+- Expo framework
 
-> Brilliant tool for beginners and speedy developers
+> What is [expo](https://expo.dev/) ?
+> Brilliant tool for beginners and speedy developers keen on mobile app development.
+> It is a framework and a platform for universal React applications.
+> It is a set of tools and services built around React Native and native platforms that help you develop, build, deploy, and quickly iterate on iOS, Android, and web apps from the same JavaScript/TypeScript codebase.
 
 ### You will build a simple mobile app that allows:
 
