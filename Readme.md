@@ -3,7 +3,7 @@
 ### Perfect for beginners to learn the basics of React Native [Expo Official Tutorial](https://docs.expo.dev/tutorial/create-your-first-app/)
 
 - Built using expo-cli
-- expo framework
+- expo [framework](https://expo.dev/)
 
 > Brilliant tool for beginners and speedy developers
 
