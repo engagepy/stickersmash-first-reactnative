@@ -5,7 +5,7 @@
 - Built using expo-cli
 - expo framework
 
-> Brilliant tool for beginners and speedy development
+> Brilliant tool for beginners and speedy developers
 
 ### You will build a simple mobile app that allows:
 
