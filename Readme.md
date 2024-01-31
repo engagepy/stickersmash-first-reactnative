@@ -1,4 +1,4 @@
-# A React Native Project
+# A React Native - Expo Project
 
 ### Perfect for beginners to learn the basics of React Native [Expo Official Tutorial](https://docs.expo.dev/tutorial/create-your-first-app/)
 
