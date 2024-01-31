@@ -25,3 +25,15 @@ npx install
 
 npx expo start
 ```
+
+## Beginners shocked with terminal options on server launch ?
+
+```bash
+i - for ios simulator
+
+a - for android simulator
+
+w - for web simulator
+```
+
+> Important to note that web requires image saving via dom-to-image, and such nuances in platforms require packages to be installed in the project. This is why you see the package.json file with all the dependencies.
